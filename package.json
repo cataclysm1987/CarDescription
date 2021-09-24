@@ -1,0 +1,22 @@
+{
+  "name": "car",
+  "version": "1.0.0",
+  "description": "A car description",
+  "main": "Home.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "car"
+  },
+  "keywords": [
+    "cars"
+  ],
+  "author": "Eric Conklin",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "react-bootstrap": "^1.6.3",
+    "react-image-lightbox": "^5.1.4"
+  }
+}
